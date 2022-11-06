@@ -1,1 +1,3 @@
-# misogynistic-tweets-classifier
+# Vectors
+
+https://fasttext.cc/docs/en/english-vectors.html
