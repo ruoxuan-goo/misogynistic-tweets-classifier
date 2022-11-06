@@ -9,11 +9,18 @@ I would like to acknowledge the authors Md Abul Bashar, Richi Nayak and Nicholas
 
 I would like to acknowledge the authors Md Abul Bashar, Richi Nayak, Bridget Weir and Nicholas Suzor of the paper Misogynistic Tweet Detection: Modelling CNN with Small Datasets
 
-# Vector Download Link
+# Word vector download link
 https://drive.google.com/file/d/1WFwmijBdrtsxqxHclAMet2TMifvj_cYn/view
 
 # How to run the application 
 1. Clone the project
-2. In terminal, streamlit run Home.py
+2. Download the word vector and place it in pages/vectors
+3. In terminal, streamlit run Home.py
+
+# File directory 
+1. Home.py is the entry point of the application
+2. mymodel folder stores saved model
+3. output stores plotted graph
+4. pages contains code for other pages and each of the page will appear as a navigation menu item
 
 
