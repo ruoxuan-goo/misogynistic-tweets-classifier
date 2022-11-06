@@ -9,6 +9,11 @@ I would like to acknowledge the authors Md Abul Bashar, Richi Nayak and Nicholas
 
 I would like to acknowledge the authors Md Abul Bashar, Richi Nayak, Bridget Weir and Nicholas Suzor of the paper Misogynistic Tweet Detection: Modelling CNN with Small Datasets
 
+# Vector Download Link
+https://drive.google.com/file/d/1WFwmijBdrtsxqxHclAMet2TMifvj_cYn/view
 
-# Vectors
-https://fasttext.cc/docs/en/english-vectors.html
+# How to run the application 
+1. Clone the project
+2. In terminal, streamlit run Home.py
+
+
