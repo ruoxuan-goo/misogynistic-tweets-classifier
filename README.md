@@ -1,9 +1,10 @@
 # Misogynistic Tweets Classifier
+A prove of concept tool that enables non-ML experts to carry out ML operations and enabling the users to interpret the prediction results easily. The application is built with [Python](https://www.python.org/) and [Streamlit](https://docs.streamlit.io/) and have intergrated two supervised machine learning model.
 
-A prove of concept tool that enables non-ML experts to carry out ML operations and enabling the users to interpret the prediction results easily. The application is built with [Python](https://www.python.org/) and [Streamlit](https://docs.streamlit.io/), intergrating supervised machine learning model. More information about the model can be found under the Acknowledgement section. 
+Supervised machine learning is a process where data is labeled and used to train a model to recognize patterns. This model can then be used to make predictions about outcomes of interest, such as whether if a tweet is misogynistic.
 
 # Proposed Pipeline 
-
+![App pipeline]()
 
 # Future Roadmaps
 Future research can investigate ways to scale the system, including adding more deep-learning models, expanding its application to new domains, and deploying the models via REST APIs so that the front-end can be developed using a more modern front-end framework.
