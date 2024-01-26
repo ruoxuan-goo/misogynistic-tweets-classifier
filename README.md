@@ -4,7 +4,7 @@ A prove of concept tool that enables non-ML experts to carry out ML operations a
 Supervised machine learning is a process where data is labeled and used to train a model to recognize patterns. This model can then be used to make predictions about outcomes of interest, such as whether if a tweet is misogynistic.
 
 # Proposed Pipeline 
-![App pipeline]()
+![App pipeline](/pipeline.png)
 
 # Future Roadmaps
 Future research can investigate ways to scale the system, including adding more deep-learning models, expanding its application to new domains, and deploying the models via REST APIs so that the front-end can be developed using a more modern front-end framework.
